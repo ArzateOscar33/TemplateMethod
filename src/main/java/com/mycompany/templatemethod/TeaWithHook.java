@@ -7,7 +7,7 @@ import static java.lang.System.in;
 public class TeaWithHook extends CaffeineBeverageWithHook {
     @Override
     void addCondiments() {
-        System.out.println("Agregar Limon");
+        System.out.println("Agregando Limon");
     }
 
     @Override

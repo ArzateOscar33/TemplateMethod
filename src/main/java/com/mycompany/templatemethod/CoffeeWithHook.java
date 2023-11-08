@@ -8,7 +8,7 @@ import static java.lang.System.in;
 public class CoffeeWithHook extends CaffeineBeverageWithHook {
     @Override
     void addCondiments() {
-       System.out.println("Agregar Azucar y Leche");
+       System.out.println("Agregando Azucar y Leche");
     }
 
     @Override
