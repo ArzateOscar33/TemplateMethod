@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class TemplateMethod {
 
     public static void main(String[] args) throws IOException {
-    
+    /*
 		Tea tea = new Tea();
 		Coffee coffee = new Coffee();
  
@@ -17,14 +17,14 @@ public class TemplateMethod {
 		System.out.println("\nPreparando Cafe");
 		coffee.prepareRecipe();
 
- 
+ */
 		TeaWithHook teaHook = new TeaWithHook();
 		CoffeeWithHook coffeeHook = new CoffeeWithHook();
  
-		System.out.println("\nPreparando Te Con Limon");
+		System.out.println("\nPreparando Te ");
 		teaHook.prepareRecipe();
  
-		System.out.println("\nPreparando Cafe con Leche y Azucar");
+		System.out.println("\nPreparando Cafe");
 		coffeeHook.prepareRecipe();
 
 
