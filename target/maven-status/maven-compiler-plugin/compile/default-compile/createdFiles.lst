@@ -1,0 +1,7 @@
+com\mycompany\templatemethod\CaffeineBeverage.class
+com\mycompany\templatemethod\CaffeineBeverageWithHook.class
+com\mycompany\templatemethod\Tea.class
+com\mycompany\templatemethod\TemplateMethod.class
+com\mycompany\templatemethod\CoffeeWithHook.class
+com\mycompany\templatemethod\Coffee.class
+com\mycompany\templatemethod\TeaWithHook.class
